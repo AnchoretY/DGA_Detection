@@ -13,8 +13,8 @@
 ```
 |-- data_mining_toolbox  自己写的数据挖掘工具库，需要的可以关注记得关注的我的仓库，持续更新...
 |-- images  训练过程Loss、Acc变化图
-     |-- {model}-model-epoch-{epoch}-loss.png loss在训练和验证集上的变化图
-     |-- {model}-model-epoch-{epoch}-acc.png acc在训练和验证集上的变化图
+    |-- {model}-model-epoch-{epoch}-loss.png loss在训练和验证集上的变化图
+    |-- {model}-model-epoch-{epoch}-acc.png acc在训练和验证集上的变化图
 |-- model  模型参数
 |-- report  模型效果比较
     |-- {model}_compare_diff_epoch_report.csv 模型不同轮数的表现
